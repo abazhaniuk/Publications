@@ -47,23 +47,23 @@ https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01 <br>
 * **CVE-2014-3689** (3 vulnerability) – The vmware-vga driver (hw/display/vmware_vga.c) in QEMU allows local guest users to write to qemu memory locations and gain privileges via unspecified parameters related to rectangle handling
 * **CVE-2014-3645** – QEMU guest crashes when execute INVEPT instructions in user mode application
 * **CVE-2014-3646** – QEMU guest crashes when execute INVVPID instructions in user mode application
+* **CVE-2014-8274** - [Vulnerability Note VU#976132: UEFI implementations do not properly secure the EFI S3 Resume Boot Path boot script](http://www.kb.cert.org/vuls/id/976132)
+* **CVE-2014-1568** - [Vulnerability Note VU#772676: Mozilla Network Security Services (NSS) fails to properly verify RSA signatures](http://www.kb.cert.org/vuls/id/772676)
 * **CVE-2011-0222** – Remotely exploitable memory corruption vulnerability in WebKit, as included with multiple vendors' browsers, could allow an attacker to execute arbitrary code with the privileges of the current user
  Links: http://support.apple.com/kb/ht4808 , http://seclists.org/fulldisclosure/2011/Jul/302
 
 # VULNIRABILITIES (without CVE):
 * Privilege escalation vulnerability from Android Kernel to Hypervisor on phones based on Qualcomm Snapdragon 808 and 810 SoC. Presented at Black Hat 2017: [“Blue Pill for Your Phone”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bazhaniuk-BluePill-For-Your-Phone.pdf) 
-* Number of vulnerabilities in EDK2 open source firmware reference implementation. Advisories: http://sourceforge.net/projects/edk2/files/Security_Advisory/EDK%20II%20Security%20Advisory%20Log%20002.pdf/download<br>
- http://www.tianocore.org/security/<br>
+* Number of vulnerabilities in EDK2 open source firmware reference implementation.<br> 
+ [EDK II Security Advisories](https://www.gitbook.com/book/edk2-docs/security-advisory/details)<br>
  Presented at RECon 2015:  [“Attacking and Defending BIOS in 2015”](https://github.com/abazhaniuk/Publications/blob/master/2015/RECon_2015/AttackingAndDefendingBIOS-RECon2015.pdf)<br>
 * Number of vulnerabilities in open source firmware implementation for Minnowboard systems:<br>
- Release Notes: http://firmware.intel.com/sites/default/files/MinnowBoard_MAX-Rel_0.81-ReleaseNotes.txt 
+ [MinnowBoard MAX 0.81 Release Notes](http://firmware.intel.com/sites/default/files/MinnowBoard_MAX-Rel_0.81-ReleaseNotes.txt) 
 * Bypass Windows 10 Virtualization Based Technology: <br>
  Presented at Black Hat 2017 [“Fractured Backbone: Breaking Modern OS Defenses with Firmware Attacks”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bulygin-Fractured-Backbone-Breaking-Modern-OS-Defenses-With-Firmware-Attacks.pdf)
 * Privilege escalation vulnerability from Dom0 or Root Partition to Hypervisor on Xen and Microsoft Hyper-V systems:<br>
  Presented at Black Hat 2015: [“Attacking and Defending BIOS in 2015”](https://github.com/abazhaniuk/Publications/blob/master/2015/RECon_2015/AttackingAndDefendingBIOS-RECon2015.pdf) 
-* Firmware S3 Boot Script vulnerability: <br>
- http://www.kb.cert.org/vuls/id/976132<br>
+* Firmware S3 Boot Script vulnerabilities: <br>
  ["Technical Details of the S3 Resume Boot Script Vulnerability"](https://github.com/abazhaniuk/Publications/blob/master/2015/WP_Intel_ATR_S3_ResBS_Vuln.pdf)
 * RSA Padding check vulnerability in WolfSSL:<br>
- http://www.kb.cert.org/vuls/id/772676<br>
- http://www.wolfssl.com/yaSSL/Blog/Entries/2014/9/12_CyaSSL_3.2.0_Released.html
+ [wolfSSL 3.2.0 Release Notes](http://www.wolfssl.com/yaSSL/Blog/Entries/2014/9/12_CyaSSL_3.2.0_Released.html)
