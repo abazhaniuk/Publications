@@ -60,7 +60,7 @@
 * Number of vulnerabilities in open source firmware implementation for Minnowboard systems:<br>
  [MinnowBoard MAX 0.81 Release Notes](http://firmware.intel.com/sites/default/files/MinnowBoard_MAX-Rel_0.81-ReleaseNotes.txt) 
 * Bypass Windows 10 Virtualization Based Technology: <br>
- Presented at Black Hat 2017 [“Fractured Backbone: Breaking Modern OS Defenses with Firmware Attacks”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bulygin-Fractured-Backbone-Breaking-Modern-OS-Defenses-With-Firmware-Attacks.pdf)
+ Presented at Black Hat 2017: [“Fractured Backbone: Breaking Modern OS Defenses with Firmware Attacks”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bulygin-Fractured-Backbone-Breaking-Modern-OS-Defenses-With-Firmware-Attacks.pdf)
 * Privilege escalation vulnerability from Dom0 or Root Partition to Hypervisor on Xen and Microsoft Hyper-V systems:<br>
  Presented at Black Hat 2015: [“Attacking and Defending BIOS in 2015”](https://github.com/abazhaniuk/Publications/blob/master/2015/RECon_2015/AttackingAndDefendingBIOS-RECon2015.pdf) 
 * Firmware S3 Boot Script vulnerabilities: <br>
