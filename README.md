@@ -51,14 +51,14 @@ https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01 <br>
  Links: http://support.apple.com/kb/ht4808 , http://seclists.org/fulldisclosure/2011/Jul/302
 
 # VULNIRABILITIES (without CVE):
-* Privilege escalation vulnerability from Android Kernel to Hypervisor on phones based on Qualcomm Snapdragon 808 and 810 SoC. Presented at Black Hat 2017: https://www.blackhat.com/docs/us-17/wednesday/us-17-Bazhaniuk-BluePill-For-Your-Phone.pdf  
+* Privilege escalation vulnerability from Android Kernel to Hypervisor on phones based on Qualcomm Snapdragon 808 and 810 SoC. Presented at Black Hat 2017: [“Blue Pill for Your Phone”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bazhaniuk-BluePill-For-Your-Phone.pdf) 
 * Number of vulnerabilities in EDK2 open source firmware reference implementation. Advisories: http://sourceforge.net/projects/edk2/files/Security_Advisory/EDK%20II%20Security%20Advisory%20Log%20002.pdf/download<br>
  http://www.tianocore.org/security/<br>
  Presented at RECon 2015:  [“Attacking and Defending BIOS in 2015”](https://github.com/abazhaniuk/Publications/blob/master/2015/RECon_2015/AttackingAndDefendingBIOS-RECon2015.pdf)<br>
 * Number of vulnerabilities in open source firmware implementation for Minnowboard systems:<br>
  Release Notes: http://firmware.intel.com/sites/default/files/MinnowBoard_MAX-Rel_0.81-ReleaseNotes.txt 
 * Bypass Windows 10 Virtualization Based Technology: <br>
- Presented at Black Hat 2017: https://www.blackhat.com/docs/us-17/wednesday/us-17-Bulygin-Fractured-Backbone-Breaking-Modern-OS-Defenses-With-Firmware-Attacks.pdf
+ Presented at Black Hat 2017 [“Fractured Backbone: Breaking Modern OS Defenses with Firmware Attacks”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bulygin-Fractured-Backbone-Breaking-Modern-OS-Defenses-With-Firmware-Attacks.pdf)
 * Privilege escalation vulnerability from Dom0 or Root Partition to Hypervisor on Xen and Microsoft Hyper-V systems:<br>
  Presented at Black Hat 2015: [“Attacking and Defending BIOS in 2015”](https://github.com/abazhaniuk/Publications/blob/master/2015/RECon_2015/AttackingAndDefendingBIOS-RECon2015.pdf) 
 * Firmware S3 Boot Script vulnerability: <br>
