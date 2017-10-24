@@ -1,5 +1,6 @@
 # PUBLICATIONS
   
+* [“Discovering vulnerable UEFI BIOS firmware at scale”](https://github.com/abazhaniuk/Publications/blob/master/2017/44CON_2017/Bulygin_Bazhaniuk_44con.pdf), 44CON 2017
 * “Attacking hypervisors through hardware emulation”, Troopers 2017
 * “BARing the System New vulnerabilities in Coreboot & UEFI based systems”, Recon Brussels 2017
 * “Digging Into The Core of Boot”, Recon 2017
