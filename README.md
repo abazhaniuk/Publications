@@ -26,10 +26,10 @@
 
 # CVEs:
 
-* **CVE-2017-9633** – An attacker with a physical connection to the TCU may exploit a buffer overflow condition that exists in the processing of AT commands. This may allow arbitrary code execution on the baseband radio processor of the TCU
-https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01
-* **CVE-2017-9647** – A vulnerability in the temporary mobile subscriber identity (TMSI) may allow an attacker to access and control memory. This may allow remote code execution on the baseband radio processor of the TCU
-https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01 <br>
+* **CVE-2017-9633** – An attacker with a physical connection to the TCU may exploit a buffer overflow condition that exists in the processing of AT commands. This may allow arbitrary code execution on the baseband radio processor of the TCU:
+[Advisory (ICSA-17-208-01) Continental AG Infineon S-Gold 2 (PMB 8876)](https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01)
+* **CVE-2017-9647** – A vulnerability in the temporary mobile subscriber identity (TMSI) may allow an attacker to access and control memory. This may allow remote code execution on the baseband radio processor of the TCU:
+[Advisory (ICSA-17-208-01) Continental AG Infineon S-Gold 2 (PMB 8876)](https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01) <br>
  **AFFECTED PRODUCTS**<br>
  All telematics control modules (TCUs) built by Continental AG that contain the S-Gold 2 (PMB 8876) cellular baseband chipset are affected. The S-Gold 2 (PMB 8876) is found in the following vehicles:<br>
  \- BMW several models produced between 2009-2010<br>
@@ -49,8 +49,8 @@ https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01 <br>
 * **CVE-2014-3646** – QEMU guest crashes when execute INVVPID instructions in user mode application
 * **CVE-2014-8274** - [Vulnerability Note VU#976132: UEFI implementations do not properly secure the EFI S3 Resume Boot Path boot script](http://www.kb.cert.org/vuls/id/976132)
 * **CVE-2014-1568** - [Vulnerability Note VU#772676: Mozilla Network Security Services (NSS) fails to properly verify RSA signatures](http://www.kb.cert.org/vuls/id/772676)
-* **CVE-2011-0222** – Remotely exploitable memory corruption vulnerability in WebKit, as included with multiple vendors' browsers, could allow an attacker to execute arbitrary code with the privileges of the current user
- Links: http://support.apple.com/kb/ht4808 , http://seclists.org/fulldisclosure/2011/Jul/302
+* **CVE-2011-0222** – Remotely exploitable memory corruption vulnerability in WebKit, as included with multiple vendors' browsers, could allow an attacker to execute arbitrary code with the privileges of the current user: 
+ [About the security content of Safari 5.1 and Safari 5.0.6](http://support.apple.com/kb/ht4808) , [Advisory: CVE-2011-0222](http://seclists.org/fulldisclosure/2011/Jul/302)
 
 # VULNIRABILITIES (without CVE):
 * Privilege escalation vulnerability from Android Kernel to Hypervisor on phones based on Qualcomm Snapdragon 808 and 810 SoC. Presented at Black Hat 2017: [“Blue Pill for Your Phone”](https://www.blackhat.com/docs/us-17/wednesday/us-17-Bazhaniuk-BluePill-For-Your-Phone.pdf) 
