@@ -32,10 +32,10 @@
 [Advisory (ICSA-17-208-01) Continental AG Infineon S-Gold 2 (PMB 8876)](https://ics-cert.us-cert.gov/advisories/ICSA-17-208-01) <br>
  **AFFECTED PRODUCTS**<br>
  All telematics control modules (TCUs) built by Continental AG that contain the S-Gold 2 (PMB 8876) cellular baseband chipset are affected. The S-Gold 2 (PMB 8876) is found in the following vehicles:<br>
- \– BMW several models produced between 2009-2010<br>
- \– Ford - program to update 2G modems has been active since 2016 and impact is restricted to the limited number of P-HEV vehicles equipped with this older technology that remain in service<br>
- \– Infiniti 2013 JX35, Infiniti 2014-2016 QX60, Infiniti 2014-2016 QX60 Hybrid, Infiniti 2014-2015 QX50, Infiniti 2014-2015 QX50 Hybrid, Infiniti 2013 M37/M56, Infiniti 2014-2016 Q70, Infiniti 2014-2016 Q70L, Infiniti 2015-2016 Q70 Hybrid, Infiniti 2013 QX56, Infiniti 2014-2016 QX 80<br>
- \– Nissan 2011-2015 Leaf<br>
+ – BMW several models produced between 2009-2010<br>
+ – Ford - program to update 2G modems has been active since 2016 and impact is restricted to the limited number of P-HEV vehicles equipped with this older technology that remain in service<br>
+ – Infiniti 2013 JX35, Infiniti 2014-2016 QX60, Infiniti 2014-2016 QX60 Hybrid, Infiniti 2014-2015 QX50, Infiniti 2014-2015 QX50 Hybrid, Infiniti 2013 M37/M56, Infiniti 2014-2016 Q70, Infiniti 2014-2016 Q70L, Infiniti 2015-2016 Q70 Hybrid, Infiniti 2013 QX56, Infiniti 2014-2016 QX 80<br>
+ – Nissan 2011-2015 Leaf<br>
 * **CVE-2016-4002** – Buffer overflow in the mipsnet_receive function in hw/net/mipsnet.c in QEMU, when the guest NIC is configured to accept large packets, allows remote attackers to cause a denial of service (memory corruption and QEMU crash) or possibly execute arbitrary code via a packet larger than 1514 bytes
 * **CVE-2016-4001** – Buffer overflow in the stellaris_enet_receive function in hw/net/stellaris_enet.c in QEMU, when the Stellaris ethernet controller is configured to accept large packets, allows remote attackers to cause a denial of service (QEMU crash) via a large packet
 * **CVE-2015-0427** – Integer overflow causes memory corruption in VMSVGAFIFOGETCMDBUFFER in Oracle VirtualBox prior to 4.3.20
