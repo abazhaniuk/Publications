@@ -22,7 +22,6 @@
 * [“HI-CFG: Construction by Binary Analysis, and Application to Attack Polymorphism”](https://github.com/abazhaniuk/Publications/blob/master/2013/ESORICS_2013/caselden13esorics.pdf), ESORICS 2013
 * [“Automatically Searching for Vulnerabilities: How to Use Taint Analysis to Find Security Bugs”](https://github.com/abazhaniuk/Publications/blob/master/2012/HITBsecconf2012ams/D2T1%20-%20Alex%20Bazhanyuk%20and%20Nikita%20Tarakanov%20-%20Automatically%20Searching%20for%20Vulnerabilities.pdf), Hack In The Box 2012
 * [“The System of Automatic Searching for Vulnerabilities or how to use Taint Analysis to find security bugs”](https://github.com/abazhaniuk/Publications/blob/master/2012/HackitoErgoSum_2012/HES2012-ntarakanov-SASV_ABazhanyuk.pdf), Hackito Ergo Sum 2012
-* Winner of the competition Hack2Own at Positive Hack Days 2011. Coworker and I demonstrated 0day vulnerability (CVE-2011-0222) in the latest version of Safari for Windows and took the first prize
 
 # CVEs:
 
